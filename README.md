@@ -8,7 +8,7 @@ During one of the class we had a in class exercise where students are required t
 
 I collected all the papers and digitised them and during this process, I negelected some details and made some generalization of their description.
 
-I started this project out of curicity for the following questions:
+I started this project out of curiosity for the following questions:
 * What is the class major composition
 * What is the most commonly used words to describe dreams
 * Are we working on our dreams?
